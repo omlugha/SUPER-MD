@@ -11,7 +11,7 @@
 ## BOT MADE BY SIR TREVLEY
 
 
-[`Scanner Session`](https://trevley-45b9dd2acee8.herokuapp.com/)
+[`Scan Session`](https://trevley-45b9dd2acee8.herokuapp.com/)
 
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
